@@ -1,0 +1,24 @@
+## Personal Portfolio ##
+
+I used a template in completing this project and eliminated the content i did not
+need. Replaced the content with my own and i can basically say that the template 
+covered 30% of the project and the rest was entirely my work.
+
+ 
+ - Created a new logo using Adobe Photoshop
+ - Changed the entire gallery(pictures) in the portfolio
+ - Wrote new content appearing in the different pages in the portfolio. its not generic
+ - Got rid of some pages i didnot need which were originally in the project
+ - linked CV download button
+ - linked social media accounts
+
+## Framework & Technologies
+- HTML
+- css
+- js
+- scss(just starting the journey of diving into it)
+- plugins
+
+
+
+ 
